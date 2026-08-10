@@ -36,4 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anushaguptha-1729/PYTHON/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/anushaguptha-1729/PYTHON/tree/master/0304-range-sum-query-2d-immutable) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/anushaguptha-1729/PYTHON/tree/master/0304-range-sum-query-2d-immutable) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/anushaguptha-1729/PYTHON/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/anushaguptha-1729/PYTHON/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->

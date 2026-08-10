@@ -23,4 +23,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/anushaguptha-1729/PYTHON/tree/master/0072-edit-distance) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anushaguptha-1729/PYTHON/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anushaguptha-1729/PYTHON/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anushaguptha-1729/PYTHON/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anushaguptha-1729/PYTHON/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 <!---LeetCode Topics End-->

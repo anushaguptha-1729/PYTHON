@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/anushaguptha-1729/PYTHON/tree/master/0304-range-sum-query-2d-immutable) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/anushaguptha-1729/PYTHON/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->

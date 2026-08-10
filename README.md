@@ -14,8 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anushaguptha-1729/PYTHON/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/anushaguptha-1729/PYTHON/tree/master/0072-edit-distance) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anushaguptha-1729/PYTHON/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/anushaguptha-1729/PYTHON/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->

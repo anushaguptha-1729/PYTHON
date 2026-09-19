@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/anushaguptha-1729/PYTHON/tree/master/0171-excel-sheet-column-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anushaguptha-1729/PYTHON/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0504-base-7](https://github.com/anushaguptha-1729/PYTHON/tree/master/0504-base-7) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/anushaguptha-1729/PYTHON/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/anushaguptha-1729/PYTHON/tree/master/0304-range-sum-query-2d-immutable) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/anushaguptha-1729/PYTHON/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Design
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/anushaguptha-1729/PYTHON/tree/master/0476-number-complement) |
 | [0868-binary-gap](https://github.com/anushaguptha-1729/PYTHON/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/anushaguptha-1729/PYTHON/tree/master/1009-complement-of-base-10-integer) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/anushaguptha-1729/PYTHON/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->

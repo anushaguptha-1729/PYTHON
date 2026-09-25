@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/anushaguptha-1729/PYTHON/tree/master/0304-range-sum-query-2d-immutable) |
+| [0860-lemonade-change](https://github.com/anushaguptha-1729/PYTHON/tree/master/0860-lemonade-change) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushaguptha-1729/PYTHON/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Design
 |  |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/anushaguptha-1729/PYTHON/tree/master/0771-jewels-and-stones) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/anushaguptha-1729/PYTHON/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->

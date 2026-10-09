@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anushaguptha-1729/PYTHON/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/anushaguptha-1729/PYTHON/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anushaguptha-1729/PYTHON/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/anushaguptha-1729/PYTHON/tree/master/0171-excel-sheet-column-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anushaguptha-1729/PYTHON/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/anushaguptha-1729/PYTHON/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/anushaguptha-1729/PYTHON/tree/master/0171-excel-sheet-column-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anushaguptha-1729/PYTHON/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anushaguptha-1729/PYTHON/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/anushaguptha-1729/PYTHON/tree/master/0771-jewels-and-stones) |
 ## Greedy
 |  |

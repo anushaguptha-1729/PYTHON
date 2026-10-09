@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anushaguptha-1729/PYTHON/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/anushaguptha-1729/PYTHON/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/anushaguptha-1729/PYTHON/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/anushaguptha-1729/PYTHON/tree/master/0171-excel-sheet-column-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/anushaguptha-1729/PYTHON/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anushaguptha-1729/PYTHON/tree/master/0014-longest-common-prefix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/anushaguptha-1729/PYTHON/tree/master/0304-range-sum-query-2d-immutable) |
 | [0860-lemonade-change](https://github.com/anushaguptha-1729/PYTHON/tree/master/0860-lemonade-change) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushaguptha-1729/PYTHON/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/anushaguptha-1729/PYTHON/tree/master/0860-lemonade-change) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anushaguptha-1729/PYTHON/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

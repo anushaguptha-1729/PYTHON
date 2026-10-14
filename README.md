@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushaguptha-1729/PYTHON/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anushaguptha-1729/PYTHON/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anushaguptha-1729/PYTHON/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/anushaguptha-1729/PYTHON/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/anushaguptha-1729/PYTHON/tree/master/0304-range-sum-query-2d-immutable) |
 | [0860-lemonade-change](https://github.com/anushaguptha-1729/PYTHON/tree/master/0860-lemonade-change) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushaguptha-1729/PYTHON/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/anushaguptha-1729/PYTHON/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/anushaguptha-1729/PYTHON/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anushaguptha-1729/PYTHON/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/anushaguptha-1729/PYTHON/tree/master/0036-valid-sudoku) |
 | [0771-jewels-and-stones](https://github.com/anushaguptha-1729/PYTHON/tree/master/0771-jewels-and-stones) |
 ## Greedy
 |  |

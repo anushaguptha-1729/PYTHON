@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anushaguptha-1729/PYTHON/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anushaguptha-1729/PYTHON/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/anushaguptha-1729/PYTHON/tree/master/0036-valid-sudoku) |
+| [0056-merge-intervals](https://github.com/anushaguptha-1729/PYTHON/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anushaguptha-1729/PYTHON/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/anushaguptha-1729/PYTHON/tree/master/0059-spiral-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/anushaguptha-1729/PYTHON/tree/master/0304-range-sum-query-2d-immutable) |
@@ -142,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anushaguptha-1729/PYTHON/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/anushaguptha-1729/PYTHON/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/anushaguptha-1729/PYTHON/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

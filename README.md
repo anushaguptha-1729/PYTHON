@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anushaguptha-1729/PYTHON/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/anushaguptha-1729/PYTHON/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/anushaguptha-1729/PYTHON/tree/master/0072-edit-distance) |
 ## Memoization
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anushaguptha-1729/PYTHON/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anushaguptha-1729/PYTHON/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/anushaguptha-1729/PYTHON/tree/master/0036-valid-sudoku) |
+| [0055-jump-game](https://github.com/anushaguptha-1729/PYTHON/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anushaguptha-1729/PYTHON/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anushaguptha-1729/PYTHON/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/anushaguptha-1729/PYTHON/tree/master/0059-spiral-matrix-ii) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anushaguptha-1729/PYTHON/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/anushaguptha-1729/PYTHON/tree/master/0860-lemonade-change) |
 ## Trie
 |  |
